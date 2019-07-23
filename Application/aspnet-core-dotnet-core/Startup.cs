@@ -52,5 +52,11 @@ namespace aspnet_core_dotnet_core
 
             app.UseMvc();
         }
+
+        public void Print()
+        {
+            var printer = new Printer();
+            printer.Print();
+        }
     }
 }

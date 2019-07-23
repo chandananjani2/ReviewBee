@@ -5,7 +5,7 @@
 
 # ASP.NET Core MVC application 
 
-Sample ASP.NET Core MVC application built using Visual Studio 2017 3.
+Sample ASP.NET Core MVC application built using Visual Studio 2017 4.
 
 ## License:
 See [LICENSE](LICENSE).

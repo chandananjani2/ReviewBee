@@ -20,6 +20,8 @@ namespace aspnet_core_dotnet_core.Pages
 
         public void OnGet()
         {
+        
+        // First change
             try
             {
                 using (SqlConnection sqlconnection = new SqlConnection(sqlCS))

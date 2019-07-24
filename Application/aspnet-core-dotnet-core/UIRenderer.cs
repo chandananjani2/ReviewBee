@@ -14,6 +14,11 @@ namespace aspnet_core_dotnet_core
 
         private static void RenderChart()
         {
+            RenderCallGraph();
+        }
+
+        private static void RenderCallGraph()
+        {
 
         }
     }

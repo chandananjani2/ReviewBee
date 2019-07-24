@@ -10,6 +10,7 @@ using System.Diagnostics;
 
 namespace aspnet_core_dotnet_core.Pages
 {
+// Third change
     public class IndexModel : PageModel
     {
         public string sqlCS;

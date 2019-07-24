@@ -9,6 +9,7 @@ using System.Diagnostics;
 
 namespace aspnet_core_dotnet_core.Pages
 {
+ // Some more change
     public class ContactModel : PageModel
     {
         public string sqlCS;

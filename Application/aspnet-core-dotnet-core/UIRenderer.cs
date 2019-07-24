@@ -19,7 +19,7 @@ namespace aspnet_core_dotnet_core
 
         private static void RenderCallGraph()
         {
-
+            Console.WriteLine("Draw call graph");
         }
     }
 }

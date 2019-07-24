@@ -10,6 +10,7 @@ using Microsoft.Extensions.Logging;
 
 namespace aspnet_core_dotnet_core
 {
+    // some change
     public class Program
     {
         public static void Main(string[] args)

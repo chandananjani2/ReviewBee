@@ -13,6 +13,7 @@ namespace aspnet_core_dotnet_core.Pages
 // Third change
 //forth  change
 // fifth change
+//sixth change
     public class IndexModel : PageModel
     {
         public string sqlCS;

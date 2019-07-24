@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace aspnet_core_dotnet_core.Pages
 {
-// Forth commit2
+// Forth commit3
     public class PrivacyModel : PageModel
     {
         public string sqlCS { get; set; }

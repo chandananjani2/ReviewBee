@@ -11,6 +11,8 @@ namespace aspnet_core_dotnet_core.Pages
 {// sample change
     public class AboutModel : PageModel
     {
+    // first change
+    //Second change
         public string sqlCS;
 
         public AboutModel(AppConfig appconfig)

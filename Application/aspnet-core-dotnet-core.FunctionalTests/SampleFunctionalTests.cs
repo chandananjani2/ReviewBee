@@ -6,6 +6,8 @@ using System.Threading;
 
 namespace SampleWebApplication.FunctionalTests
 {
+
+//sample3
     [TestClass]
     public class SampleFunctionalTests
     {

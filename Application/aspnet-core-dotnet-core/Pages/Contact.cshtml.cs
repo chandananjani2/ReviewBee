@@ -16,7 +16,7 @@ namespace aspnet_core_dotnet_core.Pages
         {
             sqlCS = appconfig.sqlCS;
         }
-        
+        // Thrid Change
         public void OnGet()
         {
             try

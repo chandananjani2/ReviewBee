@@ -8,6 +8,7 @@ namespace aspnet_core_dotnet_core
 {
     public class AppConfig
     {
+        //some change
         public string sqlCS { get; set; }
 
         public AppConfig(IConfiguration config)

@@ -15,8 +15,13 @@ namespace aspnet_core_dotnet_core
         public static void Main(string[] args)
         {
             CreateWebHostBuilder(args).Build().Run();
-        }
 
+            IdentityService id = new IdentityService();
+
+            ECommerceService s1 = new ECommerceService();
+            s1.PlaceOrder();
+        }
+        // dummy comment.
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>();

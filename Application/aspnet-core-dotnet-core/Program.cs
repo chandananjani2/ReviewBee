@@ -15,6 +15,7 @@ namespace aspnet_core_dotnet_core
         public static void Main(string[] args)
         {
             CreateWebHostBuilder(args).Build().Run();
+            int a = 2+3;
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
